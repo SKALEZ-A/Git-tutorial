@@ -5,3 +5,6 @@ Initialise git ~ "git init"
 	~ git log
 	~ git checkout (name of file u want to revert)
 	~ 
+
+My Git personal token ID:
+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
