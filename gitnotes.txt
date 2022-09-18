@@ -1,0 +1,7 @@
+Initialise git ~ "git init"
+	~ git commit -m "changes u will like to add"
+	~ git add (name of file)
+	~ git status
+	~ git log
+	~ git checkout (name of file u want to revert)
+	~ 
